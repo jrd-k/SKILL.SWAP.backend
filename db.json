@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "name": "Guitar Lessons",
+      "level": "Intermediate",
+      "location": "Nairobi",
+      "description": "Learn to play chords and popular songs.",
+      "owner": "Alice",
+      "favorite": false
+    },
+    {
+      "id": "2",
+      "name": "Web Development",
+      "level": "Advanced",
+      "location": "Eldoret",
+      "description": "I can help you build websites with React and Node.js.",
+      "owner": "Bob",
+      "favorite": true
+    },
+    {
+      "id": "3",
+      "name": "Swahili Language",
+      "level": "Beginner",
+      "location": "Mombasa",
+      "description": "Let's practice conversational Swahili together.",
+      "owner": "Carol",
+      "favorite": false
+    },
+    {
+      "id": "4",
+      "name": "Cooking Kenyan Dishes",
+      "level": "Intermediate",
+      "location": "Kisumu",
+      "description": "Learn how to cook ugali, sukuma wiki, and nyama choma.",
+      "owner": "Daniel",
+      "favorite": true
+    },
+    {
+      "id": "d48d",
+      "name": "",
+      "level": "",
+      "location": "",
+      "description": "",
+      "owner": "me",
+      "favorite": false
+    },
+    {
+      "id": "ccb0",
+      "name": "",
+      "level": "",
+      "location": "",
+      "description": "",
+      "owner": "me",
+      "favorite": false
+    },
+    {
+      "id": "a24c",
+      "name": "",
+      "level": "",
+      "location": "",
+      "description": "",
+      "owner": "me",
+      "favorite": false
+    },
+    {
+      "id": "2943",
+      "name": "civil engieneer",
+      "level": "Expert",
+      "location": "covo",
+      "description": "dangerous man",
+      "owner": "me",
+      "favorite": false
+    }
+  ],
+  "users": []
+}
